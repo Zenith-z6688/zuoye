@@ -1,3 +1,0 @@
-/home/zjc/Desktop/ZUOYE/CMakeFiles/zuoye.dir
-/home/zjc/Desktop/ZUOYE/CMakeFiles/edit_cache.dir
-/home/zjc/Desktop/ZUOYE/CMakeFiles/rebuild_cache.dir
