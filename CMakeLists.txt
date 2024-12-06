@@ -1,7 +1,0 @@
-cmake_minimum_required(VERSION 3.8)
-project(zuoye)
-set(CMAKE_CXX_FLAGS"-std=c++11")
-find_package(OpenCV 4.6.0 REQUIRED)
-include_directories(${OpenCV_INCLUDE_DIRS})
-add_executable(zuoye main.cpp)
-target_link_libraries(zuoye ${OpenCV_LIBS})
